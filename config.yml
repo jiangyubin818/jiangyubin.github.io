@@ -1,5 +1,5 @@
 baseURL: 'https://jiangyubin.github.io'
-title: LADDER
+title: 鸡汤泡饭
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
@@ -11,8 +11,8 @@ paginate: 10
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "YuBin Jiang"
+  email: "jiangyubin818@gmail.com"
 menu:
   main:
     - name: Blog
@@ -36,7 +36,7 @@ menu:
 params:
   brand: HOME
   avatarURL: /images/avatar.png
-  author: Hugo Ladder
+  author: Hugo JiangYubin
   authorDescription: A clean, fast hugo theme focused on Reading
   info: Ladder is a clean, simple but beautiful theme with awesome features
   favicon: /images/avatar.png
